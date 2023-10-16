@@ -1,16 +1,14 @@
 # git-project1
 
-some description 
+some description
 
+# Subheader
 
-# Subheader 
+Watch practicing git
 
+## Local development
 
-wathc practiceing git 
+1. Open index.html in your browser
 
+Second time making changes
 
-## Local development  
-
-1. oprn index.html in your browswer 
-
-seconf time making changes 
