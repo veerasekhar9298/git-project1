@@ -7,3 +7,8 @@ some description
 
 
 wathc practiceing git 
+
+
+## Local development  
+
+1. oprn index.html in your browswer
