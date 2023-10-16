@@ -11,4 +11,6 @@ wathc practiceing git
 
 ## Local development  
 
-1. oprn index.html in your browswer
+1. oprn index.html in your browswer 
+
+seconf time making changes 
